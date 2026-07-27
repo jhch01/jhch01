@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Jaehoon
 
-<!--
-**jhch01/jhch01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with experience in SQL, Tableau, BigQuery, and data visualization.
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- BigQuery
+- Tableau
+- Excel
+- Data Analysis
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects 
+
+### Retail Sales Analysis
+Analyzed retail sales performance using SQL and Tableau to identify revenue trends, customer segments, and product performance.
+
+### Customer Churn Analysis
+Analyzed customer churn patterns to identify high-risk customer segments and retention opportunities.
+
+## Tools
+SQL | BigQuery | Tableau | GitHub | Excel
