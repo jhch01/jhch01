@@ -1,4 +1,4 @@
-# Hi, I'm Jaehoon
+# Hi, I'm Jaehoon (Jae)
 
 Aspiring Data Analyst with experience in SQL, Tableau, BigQuery, and data visualization.
 
