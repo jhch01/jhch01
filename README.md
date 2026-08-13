@@ -1,6 +1,6 @@
-# Hi, I'm Jaehoon (Jae)
+## Hi, I'm Jaehoon (Jae)
 
-Aspiring Data Analyst | B.S. Informatics, University of Washington
+#Aspiring Data Analyst | B.S. Informatics, University of Washington
 
 I'm an informatics graduate from the University of Washington with a focus on data analytics and business intelligence. I enjoy using SQL and data visualization tools to transform raw data into actionable insights and communicate findings through clear, interactive dashboards.
 
