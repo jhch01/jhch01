@@ -8,11 +8,10 @@ Currently building projects with SQL, BigQuery, Tableau, and Excel while develop
 
 ## Skills
 - SQL
-- BigQuery
-- Tableau
-- Excel
 - Data Analysis
+- Data Cleaning
 - Data Visualization
+- Dashboard Development
 
 ## Projects 
 
